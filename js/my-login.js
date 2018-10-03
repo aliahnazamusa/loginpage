@@ -3,7 +3,7 @@
  *
  * Bootstrap 4 Login Page
  *
- * @author          Muhamad Nauval Azhar
+ * @author          Aliah Mohd Nazarudin
  * @uri 			https://nauval.in
  * @copyright       Copyright (c) 2018 Muhamad Nauval Azhar
  * @license         My Login is licensed under the MIT license.
